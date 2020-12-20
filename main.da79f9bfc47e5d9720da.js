@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{CmGC:function(n,o){fetch("https://pokeapi.co/api/v2/pokemon/1").then(n=>n.json()).then(n=>{console.log(n)})},L1EO:function(n,o,i){},QfWi:function(n,o,i){"use strict";i.r(o);i("L1EO"),i("CmGC")}},[["QfWi",1]]]);
+//# sourceMappingURL=main.da79f9bfc47e5d9720da.js.map
